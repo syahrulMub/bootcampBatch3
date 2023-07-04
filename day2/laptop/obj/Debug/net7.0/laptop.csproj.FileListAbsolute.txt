@@ -1,0 +1,15 @@
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\laptop.csproj.AssemblyReference.cache
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\laptop.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\laptop.AssemblyInfoInputs.cache
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\laptop.AssemblyInfo.cs
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\laptop.csproj.CoreCompileInputs.cache
+C:\bootcampbatch3\day2\laptop\bin\Debug\net7.0\laptop.exe
+C:\bootcampbatch3\day2\laptop\bin\Debug\net7.0\laptop.deps.json
+C:\bootcampbatch3\day2\laptop\bin\Debug\net7.0\laptop.runtimeconfig.json
+C:\bootcampbatch3\day2\laptop\bin\Debug\net7.0\laptop.dll
+C:\bootcampbatch3\day2\laptop\bin\Debug\net7.0\laptop.pdb
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\laptop.dll
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\refint\laptop.dll
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\laptop.pdb
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\laptop.genruntimeconfig.cache
+C:\bootcampbatch3\day2\laptop\obj\Debug\net7.0\ref\laptop.dll
