@@ -1,0 +1,15 @@
+D:\FootballerTransfer\bin\Debug\net7.0\FootballerTransfer.exe
+D:\FootballerTransfer\bin\Debug\net7.0\FootballerTransfer.deps.json
+D:\FootballerTransfer\bin\Debug\net7.0\FootballerTransfer.runtimeconfig.json
+D:\FootballerTransfer\bin\Debug\net7.0\FootballerTransfer.dll
+D:\FootballerTransfer\bin\Debug\net7.0\FootballerTransfer.pdb
+D:\FootballerTransfer\obj\Debug\net7.0\FootballerTransfer.csproj.AssemblyReference.cache
+D:\FootballerTransfer\obj\Debug\net7.0\FootballerTransfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\FootballerTransfer\obj\Debug\net7.0\FootballerTransfer.AssemblyInfoInputs.cache
+D:\FootballerTransfer\obj\Debug\net7.0\FootballerTransfer.AssemblyInfo.cs
+D:\FootballerTransfer\obj\Debug\net7.0\FootballerTransfer.csproj.CoreCompileInputs.cache
+D:\FootballerTransfer\obj\Debug\net7.0\FootballerTransfer.dll
+D:\FootballerTransfer\obj\Debug\net7.0\refint\FootballerTransfer.dll
+D:\FootballerTransfer\obj\Debug\net7.0\FootballerTransfer.pdb
+D:\FootballerTransfer\obj\Debug\net7.0\FootballerTransfer.genruntimeconfig.cache
+D:\FootballerTransfer\obj\Debug\net7.0\ref\FootballerTransfer.dll
