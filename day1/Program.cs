@@ -1,4 +1,5 @@
-﻿using fungsi;
+﻿using System;
+using MyFungsi;
 namespace MyProgram;
 class Program
 {
@@ -9,6 +10,7 @@ class Program
     Console.WriteLine(name);
     Console.WriteLine(age);
     Massage();
+    Fungsi.Cetak();
     }
     static void Massage()
     {

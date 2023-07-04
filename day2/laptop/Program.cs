@@ -5,8 +5,8 @@ public class Program
 {
     static void Main()
     {
-        Laptop Laptop = new Laptop("lenovo", 1000, 4);
-        string nameLaptop = Laptop.GetName("PASSWORD");
+        Laptop Laptop = new Laptop("lenovo", 4000, 4);
+        string nameLaptop = Laptop.GetName("PASSWOR");
         bool namaLaptop = Laptop.SetName("Lenovo");
         if (namaLaptop)
         {

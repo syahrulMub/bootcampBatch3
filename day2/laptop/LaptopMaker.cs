@@ -3,6 +3,7 @@ namespace LaptopMaker;
 
 public class Laptop
 {
+    //properti kelas
     private string _name;
     private int _price;
     private int _ram;
@@ -10,7 +11,7 @@ public class Laptop
     public Laptop(string name, int price, int ram)
     {
         _name = name;
-        if (_price > 0)
+        if (price > 0)
         {
             _price = price;
         }
@@ -18,7 +19,7 @@ public class Laptop
         {
             _price = 0;
         }
-        _ram = 2;
+        _ram = ram;
     }
     public string? GetName(string password)
     {
