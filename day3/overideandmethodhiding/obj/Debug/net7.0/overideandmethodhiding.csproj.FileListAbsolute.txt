@@ -1,0 +1,15 @@
+C:\day3\overideandmethodhiding\bin\Debug\net7.0\overideandmethodhiding.exe
+C:\day3\overideandmethodhiding\bin\Debug\net7.0\overideandmethodhiding.deps.json
+C:\day3\overideandmethodhiding\bin\Debug\net7.0\overideandmethodhiding.runtimeconfig.json
+C:\day3\overideandmethodhiding\bin\Debug\net7.0\overideandmethodhiding.dll
+C:\day3\overideandmethodhiding\bin\Debug\net7.0\overideandmethodhiding.pdb
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\overideandmethodhiding.csproj.AssemblyReference.cache
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\overideandmethodhiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\overideandmethodhiding.AssemblyInfoInputs.cache
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\overideandmethodhiding.AssemblyInfo.cs
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\overideandmethodhiding.csproj.CoreCompileInputs.cache
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\overideandmethodhiding.dll
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\refint\overideandmethodhiding.dll
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\overideandmethodhiding.pdb
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\overideandmethodhiding.genruntimeconfig.cache
+C:\day3\overideandmethodhiding\obj\Debug\net7.0\ref\overideandmethodhiding.dll
