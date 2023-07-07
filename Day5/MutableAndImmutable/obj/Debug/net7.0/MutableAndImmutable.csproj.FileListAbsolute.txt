@@ -1,0 +1,15 @@
+C:\Day5\MutableAndImmutable\bin\Debug\net7.0\MutableAndImmutable.exe
+C:\Day5\MutableAndImmutable\bin\Debug\net7.0\MutableAndImmutable.deps.json
+C:\Day5\MutableAndImmutable\bin\Debug\net7.0\MutableAndImmutable.runtimeconfig.json
+C:\Day5\MutableAndImmutable\bin\Debug\net7.0\MutableAndImmutable.dll
+C:\Day5\MutableAndImmutable\bin\Debug\net7.0\MutableAndImmutable.pdb
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\MutableAndImmutable.csproj.AssemblyReference.cache
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\MutableAndImmutable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\MutableAndImmutable.AssemblyInfoInputs.cache
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\MutableAndImmutable.AssemblyInfo.cs
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\MutableAndImmutable.csproj.CoreCompileInputs.cache
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\MutableAndImmutable.dll
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\refint\MutableAndImmutable.dll
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\MutableAndImmutable.pdb
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\MutableAndImmutable.genruntimeconfig.cache
+C:\Day5\MutableAndImmutable\obj\Debug\net7.0\ref\MutableAndImmutable.dll
