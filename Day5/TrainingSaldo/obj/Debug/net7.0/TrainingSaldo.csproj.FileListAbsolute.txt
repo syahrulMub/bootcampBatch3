@@ -1,0 +1,15 @@
+C:\Day5\TrainingSaldo\bin\Debug\net7.0\TrainingSaldo.exe
+C:\Day5\TrainingSaldo\bin\Debug\net7.0\TrainingSaldo.deps.json
+C:\Day5\TrainingSaldo\bin\Debug\net7.0\TrainingSaldo.runtimeconfig.json
+C:\Day5\TrainingSaldo\bin\Debug\net7.0\TrainingSaldo.dll
+C:\Day5\TrainingSaldo\bin\Debug\net7.0\TrainingSaldo.pdb
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\TrainingSaldo.csproj.AssemblyReference.cache
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\TrainingSaldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\TrainingSaldo.AssemblyInfoInputs.cache
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\TrainingSaldo.AssemblyInfo.cs
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\TrainingSaldo.csproj.CoreCompileInputs.cache
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\TrainingSaldo.dll
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\refint\TrainingSaldo.dll
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\TrainingSaldo.pdb
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\TrainingSaldo.genruntimeconfig.cache
+C:\Day5\TrainingSaldo\obj\Debug\net7.0\ref\TrainingSaldo.dll

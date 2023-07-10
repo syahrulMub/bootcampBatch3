@@ -1,0 +1,15 @@
+C:\Day5\RefInOut\obj\Debug\net7.0\RefInOut.csproj.AssemblyReference.cache
+C:\Day5\RefInOut\obj\Debug\net7.0\RefInOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day5\RefInOut\obj\Debug\net7.0\RefInOut.AssemblyInfoInputs.cache
+C:\Day5\RefInOut\obj\Debug\net7.0\RefInOut.AssemblyInfo.cs
+C:\Day5\RefInOut\obj\Debug\net7.0\RefInOut.csproj.CoreCompileInputs.cache
+C:\Day5\RefInOut\bin\Debug\net7.0\RefInOut.exe
+C:\Day5\RefInOut\bin\Debug\net7.0\RefInOut.deps.json
+C:\Day5\RefInOut\bin\Debug\net7.0\RefInOut.runtimeconfig.json
+C:\Day5\RefInOut\bin\Debug\net7.0\RefInOut.dll
+C:\Day5\RefInOut\bin\Debug\net7.0\RefInOut.pdb
+C:\Day5\RefInOut\obj\Debug\net7.0\RefInOut.dll
+C:\Day5\RefInOut\obj\Debug\net7.0\refint\RefInOut.dll
+C:\Day5\RefInOut\obj\Debug\net7.0\RefInOut.pdb
+C:\Day5\RefInOut\obj\Debug\net7.0\RefInOut.genruntimeconfig.cache
+C:\Day5\RefInOut\obj\Debug\net7.0\ref\RefInOut.dll

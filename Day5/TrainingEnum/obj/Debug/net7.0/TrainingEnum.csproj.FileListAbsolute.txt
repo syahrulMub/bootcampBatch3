@@ -1,0 +1,15 @@
+C:\Day5\TrainingEnum\obj\Debug\net7.0\TrainingEnum.csproj.AssemblyReference.cache
+C:\Day5\TrainingEnum\obj\Debug\net7.0\TrainingEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day5\TrainingEnum\obj\Debug\net7.0\TrainingEnum.AssemblyInfoInputs.cache
+C:\Day5\TrainingEnum\obj\Debug\net7.0\TrainingEnum.AssemblyInfo.cs
+C:\Day5\TrainingEnum\obj\Debug\net7.0\TrainingEnum.csproj.CoreCompileInputs.cache
+C:\Day5\TrainingEnum\bin\Debug\net7.0\TrainingEnum.exe
+C:\Day5\TrainingEnum\bin\Debug\net7.0\TrainingEnum.deps.json
+C:\Day5\TrainingEnum\bin\Debug\net7.0\TrainingEnum.runtimeconfig.json
+C:\Day5\TrainingEnum\bin\Debug\net7.0\TrainingEnum.dll
+C:\Day5\TrainingEnum\bin\Debug\net7.0\TrainingEnum.pdb
+C:\Day5\TrainingEnum\obj\Debug\net7.0\TrainingEnum.dll
+C:\Day5\TrainingEnum\obj\Debug\net7.0\refint\TrainingEnum.dll
+C:\Day5\TrainingEnum\obj\Debug\net7.0\TrainingEnum.pdb
+C:\Day5\TrainingEnum\obj\Debug\net7.0\TrainingEnum.genruntimeconfig.cache
+C:\Day5\TrainingEnum\obj\Debug\net7.0\ref\TrainingEnum.dll
