@@ -1,0 +1,15 @@
+C:\day7\Delegate\bin\Debug\net7.0\Delegate.exe
+C:\day7\Delegate\bin\Debug\net7.0\Delegate.deps.json
+C:\day7\Delegate\bin\Debug\net7.0\Delegate.runtimeconfig.json
+C:\day7\Delegate\bin\Debug\net7.0\Delegate.dll
+C:\day7\Delegate\bin\Debug\net7.0\Delegate.pdb
+C:\day7\Delegate\obj\Debug\net7.0\Delegate.csproj.AssemblyReference.cache
+C:\day7\Delegate\obj\Debug\net7.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\day7\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfoInputs.cache
+C:\day7\Delegate\obj\Debug\net7.0\Delegate.AssemblyInfo.cs
+C:\day7\Delegate\obj\Debug\net7.0\Delegate.csproj.CoreCompileInputs.cache
+C:\day7\Delegate\obj\Debug\net7.0\Delegate.dll
+C:\day7\Delegate\obj\Debug\net7.0\refint\Delegate.dll
+C:\day7\Delegate\obj\Debug\net7.0\Delegate.pdb
+C:\day7\Delegate\obj\Debug\net7.0\Delegate.genruntimeconfig.cache
+C:\day7\Delegate\obj\Debug\net7.0\ref\Delegate.dll

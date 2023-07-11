@@ -1,0 +1,15 @@
+C:\day7\DelegateOperatos\obj\Debug\net7.0\DelegateOperatos.csproj.AssemblyReference.cache
+C:\day7\DelegateOperatos\obj\Debug\net7.0\DelegateOperatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\day7\DelegateOperatos\obj\Debug\net7.0\DelegateOperatos.AssemblyInfoInputs.cache
+C:\day7\DelegateOperatos\obj\Debug\net7.0\DelegateOperatos.AssemblyInfo.cs
+C:\day7\DelegateOperatos\obj\Debug\net7.0\DelegateOperatos.csproj.CoreCompileInputs.cache
+C:\day7\DelegateOperatos\bin\Debug\net7.0\DelegateOperatos.exe
+C:\day7\DelegateOperatos\bin\Debug\net7.0\DelegateOperatos.deps.json
+C:\day7\DelegateOperatos\bin\Debug\net7.0\DelegateOperatos.runtimeconfig.json
+C:\day7\DelegateOperatos\bin\Debug\net7.0\DelegateOperatos.dll
+C:\day7\DelegateOperatos\bin\Debug\net7.0\DelegateOperatos.pdb
+C:\day7\DelegateOperatos\obj\Debug\net7.0\DelegateOperatos.dll
+C:\day7\DelegateOperatos\obj\Debug\net7.0\refint\DelegateOperatos.dll
+C:\day7\DelegateOperatos\obj\Debug\net7.0\DelegateOperatos.pdb
+C:\day7\DelegateOperatos\obj\Debug\net7.0\DelegateOperatos.genruntimeconfig.cache
+C:\day7\DelegateOperatos\obj\Debug\net7.0\ref\DelegateOperatos.dll
