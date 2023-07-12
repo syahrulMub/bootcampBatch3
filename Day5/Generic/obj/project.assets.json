@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Batch 3\\.nuget\\packages\\": {}
+    "C:\\Users\\Sahrul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Day5\\Generic\\Generic.csproj",
+      "projectUniqueName": "D:\\bootcampBatch3\\Day5\\Generic\\Generic.csproj",
       "projectName": "Generic",
-      "projectPath": "C:\\Day5\\Generic\\Generic.csproj",
-      "packagesPath": "C:\\Users\\Batch 3\\.nuget\\packages\\",
-      "outputPath": "C:\\Day5\\Generic\\obj\\",
+      "projectPath": "D:\\bootcampBatch3\\Day5\\Generic\\Generic.csproj",
+      "packagesPath": "C:\\Users\\Sahrul\\.nuget\\packages\\",
+      "outputPath": "D:\\bootcampBatch3\\Day5\\Generic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Batch 3\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sahrul\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

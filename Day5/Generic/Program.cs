@@ -66,7 +66,6 @@ class Program
 
         Console.ReadLine();
     }
-
     static void PrintValue<T>(T value)
     {
         Console.WriteLine(value);
