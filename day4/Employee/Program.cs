@@ -7,11 +7,13 @@ class Program
     {
         FullTime orang1 = new("Syahrul", 23, 98789);
         PartTime orang2= new("Surya", 25, 33231);
+        PartTime orang3= new("Adam", 19, 55641);
         Console.WriteLine($"Nama : {orang1.name}\nUmur : {orang1.age}\nNomor Pegawai : {orang1.employeeNumber}");
         orang1.GetSalary(3000000);
         orang1.GetTitle("CEO");
         Console.WriteLine($"Nama : {orang2.name}\nUmur : {orang2.age}\nNomor Pegawai : {orang2.employeeNumber}");
         orang2.GetSalary(20000);
         orang2.GetContract(2);
+        Console.WriteLine($"Nama : {orang3.name}\nUmur : {orang3.age}\nNomor Pegawai : {orang3.employeeNumber}");
     }
 }
