@@ -1,4 +1,4 @@
-﻿
+﻿using System;
 using A_interface;
 
 class Program

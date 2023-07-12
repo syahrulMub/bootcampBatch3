@@ -1,3 +1,4 @@
+using System;
 namespace MyFungsi;
 
 public class Fungsi 
