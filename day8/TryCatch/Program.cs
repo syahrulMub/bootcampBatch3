@@ -5,15 +5,15 @@ class Program
     {
         try
         {
-            Pecahan Pecahan1 = new Pecahan(9,4);
-            Pecahan Pecahan2 = new Pecahan(3,8);
-            Pecahan Pecahan3 = new Pecahan(3,8);
-            Pecahan HasilJumlah = Pecahan1 + Pecahan2;
-            HasilJumlah.Simplify();
-            Pecahan HasilKurang = hasilJumlah - Pecahan3;
-            HasilKurang.Simplify();
-            Console.WriteLine($"hasil Penjumlahan : {HasilJumlah.pembilang}/{HasilJumlah.penyebut}");
-            Console.WriteLine($"hasil Pengurangan : {HasilKurang.pembilang}/{HasilKurang.penyebut}");
+            Pecahan pecahan1 = new Pecahan(9,4);
+            Pecahan pecahan2 = new Pecahan(3,8);
+            Pecahan pecahan3 = new Pecahan(3,8);
+            Pecahan hasilJumlah = pecahan1 + pecahan2;
+            hasilJumlah.Simplify();
+            Pecahan hasilKurang = hasilJumlah - pecahan3;
+            hasilKurang.Simplify();
+            Console.WriteLine($"hasil Penjumlahan : {hasilJumlah.pembilang}/{hasilJumlah.penyebut}");
+            Console.WriteLine($"hasil Pengurangan : {hasilKurang.pembilang}/{hasilKurang.penyebut}");
         }
         catch (DivideByZeroException e)
         {
