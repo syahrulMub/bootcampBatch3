@@ -10,7 +10,7 @@ class Program
     Console.WriteLine(name);
     Console.WriteLine(age);
     Massage();
-    Fungsi.Cetak(); 
+    Fungsi.Cetak();
     } 
     static void Massage()
     {
