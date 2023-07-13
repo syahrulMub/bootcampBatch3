@@ -55,18 +55,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "day3\Interface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Employee\Employee.csproj", "{646B9D07-9E3A-473E-B159-D237A573F311}"
 EndProject
-<<<<<<< HEAD
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread", "Thread\Thread.csproj", "{D613E70C-9F4F-442E-9D6F-5B922EA75E2D}"
-=======
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "day8", "day8", "{96D01CF7-03D7-405D-8DDE-ACA56A3A76B6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverload", "day8\OperatorOverload\OperatorOverload.csproj", "{19BBB62B-7DD8-4613-8D2B-6DA9A513C9AF}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{E17B921C-C851-49A6-8273-ED058FEF5BE6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration", "Iteration\Iteration.csproj", "{666533D6-F9A4-4F51-969E-724DAC2E2F17}"
->>>>>>> c45caf219591a2955217bcf19041d34deff0d2bb
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
