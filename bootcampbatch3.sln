@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverload", "day8\Op
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "day8\TryCatch\TryCatch.csproj", "{351E5400-CE5E-40FF-9D87-CACF0146032D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread", "Thread\Thread.csproj", "{533DD475-9A04-4A46-BF2D-F1AE33E2069D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -168,6 +170,10 @@ Global
 		{351E5400-CE5E-40FF-9D87-CACF0146032D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{351E5400-CE5E-40FF-9D87-CACF0146032D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{351E5400-CE5E-40FF-9D87-CACF0146032D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{533DD475-9A04-4A46-BF2D-F1AE33E2069D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533DD475-9A04-4A46-BF2D-F1AE33E2069D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533DD475-9A04-4A46-BF2D-F1AE33E2069D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533DD475-9A04-4A46-BF2D-F1AE33E2069D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FAC8F9A4-830E-47DD-923B-AF356EB94AC0} = {59789D2F-1EA2-4F23-A46D-1E2198EA5C1B}

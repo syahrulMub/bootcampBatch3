@@ -5,7 +5,7 @@ class Program
     {
         Pecahan pecahan1 = new Pecahan(9,4);
         Pecahan pecahan2 = new Pecahan(3,9);
-        Pecahan pecahan3 = new Pecahan(3,0);
+        Pecahan pecahan3 = new Pecahan(3,1);
         try
         {
             if (pecahan1.penyebut == 0 || pecahan2.penyebut == 0 || pecahan3.penyebut == 0)
@@ -13,7 +13,7 @@ class Program
                 throw new DivideByZeroException("Penyebut 0 tidak dapat di Operasikan");
             }
             else 
-            {
+            { 
             Pecahan hasilJumlah = pecahan1 + pecahan2;
             hasilJumlah.Simplify();
             Pecahan hasilKurang = hasilJumlah - pecahan3;
@@ -24,7 +24,7 @@ class Program
         }
         catch (DivideByZeroException e)
         {
-            Console.WriteLine($"Pesan {e.Message}");
+            Console.WriteLine($"Pesan : {e.Message}");
         }
         finally
         {
