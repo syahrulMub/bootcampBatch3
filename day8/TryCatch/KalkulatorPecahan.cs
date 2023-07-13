@@ -30,7 +30,7 @@ public class Pecahan
         int temp = b;
         b = a % b;
         a = temp;
-        }
+        } 
         return a;
     }
     public void Simplify()

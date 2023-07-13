@@ -1,4 +1,5 @@
-﻿﻿using MyAnimal;
+﻿﻿using System;
+using MyAnimal;
 
 class Program
 {
