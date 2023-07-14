@@ -65,6 +65,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "day8\TryCatch\T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread", "Thread\Thread.csproj", "{533DD475-9A04-4A46-BF2D-F1AE33E2069D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringHandling", "StringHandling\StringHandling.csproj", "{4BC0AFBA-65E4-459C-91C6-0350710B3208}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StopWatch", "StopWatch\StopWatch.csproj", "{C337DB87-4B91-4124-B62D-ABBD7A070499}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,6 +178,14 @@ Global
 		{533DD475-9A04-4A46-BF2D-F1AE33E2069D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{533DD475-9A04-4A46-BF2D-F1AE33E2069D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{533DD475-9A04-4A46-BF2D-F1AE33E2069D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC0AFBA-65E4-459C-91C6-0350710B3208}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC0AFBA-65E4-459C-91C6-0350710B3208}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC0AFBA-65E4-459C-91C6-0350710B3208}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC0AFBA-65E4-459C-91C6-0350710B3208}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C337DB87-4B91-4124-B62D-ABBD7A070499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C337DB87-4B91-4124-B62D-ABBD7A070499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C337DB87-4B91-4124-B62D-ABBD7A070499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C337DB87-4B91-4124-B62D-ABBD7A070499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FAC8F9A4-830E-47DD-923B-AF356EB94AC0} = {59789D2F-1EA2-4F23-A46D-1E2198EA5C1B}
