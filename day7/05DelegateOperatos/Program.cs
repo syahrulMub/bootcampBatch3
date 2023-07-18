@@ -7,12 +7,13 @@ class Program
         Operator operasi = Add;
         operasi += Product;
         Console.WriteLine(operasi(1, 2));
-
     }
+    
     public static int Add(int a, int b)
     {
         return a + b;
     }
+
     public static int Product(int a, int b)
     {
         return a * b;
