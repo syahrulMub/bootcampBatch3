@@ -27,5 +27,4 @@ class Program
      timer2.Stop();
      Console.WriteLine(timer2.Elapsed);
     }
-
 }
