@@ -6,6 +6,10 @@ class Program
         int saldo = 100;
         ShowSaldo(in saldo);
         PlusSaldo(ref saldo, 10);
+        PlusSaldo(ref saldo, 200);
+        MinusSaldo(ref saldo,20);
+        PlusSaldo(ref saldo, 300);
+        PlusSaldo(ref saldo, 500);
         int totalSaldo = TotalSaldo(saldo, out int SaldoAkhir);
         Console.WriteLine($"Total Saldo Anda : {totalSaldo}");
     }

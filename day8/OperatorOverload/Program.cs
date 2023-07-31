@@ -1,5 +1,4 @@
 ﻿using System.Collections;
-
 public class Vektor2D
 {
     public int X { get; set; }

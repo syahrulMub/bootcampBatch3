@@ -32,7 +32,6 @@ class SelfDevelopment : Book
     public SelfDevelopment(string title, string author, int datePublish, string language) : base(title, author, datePublish)
     {
         this.language = language;
-
     }
     public override void Synopsis(string synopsis)
     {
