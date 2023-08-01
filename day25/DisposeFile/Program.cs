@@ -27,7 +27,7 @@ public static class Stream
     {
         using (StreamReader reader = new StreamReader("Output.txt"))
         {
-            string line = reader.ReadLine();
+            string? line = reader.ReadLine();
             Console.WriteLine(line);
         }
     }

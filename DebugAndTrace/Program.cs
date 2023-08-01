@@ -1,4 +1,4 @@
-﻿using system.Diagnostics;
+﻿using System.Diagnostics;
 using System.IO;
 
 class Program 
@@ -11,7 +11,7 @@ class Program
         Debug.WriteLine("x = " + a);
         Debug.WriteLine("y = " + b);
 
-        debug.WriteLine(" ");
+        Debug.WriteLine(" ");
 
         Trace.WriteLine("Calculater number ");
         int sum = a + b;
