@@ -20,7 +20,7 @@ class Program
         Pelanggan pelanggan = new (name);
         string? inisial = pelanggan.Initials();
 
-        Console.WriteLine("Inisial Anda: " + inisial.ToUpper());
+        Console.WriteLine("Inisial Anda: " + inisial?.ToUpper());
         Console.WriteLine("nomor ID anda : " + idPelanggan);
 
         if (idPelanggan.EndsWith("X"))
