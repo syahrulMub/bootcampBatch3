@@ -1,0 +1,1 @@
+this is example for create file add read and write for using file
