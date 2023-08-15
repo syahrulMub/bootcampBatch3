@@ -42,21 +42,21 @@ static class Program
 
         while (input != 'X')
         {
-            input  = char.ToUpper(Console.ReadKey().KeyChar);
+            input = char.ToUpper(Console.ReadKey().KeyChar);
             switch (input)
             {
                 case 'E':
-                PerformAction(EatAction);
-                break;
+                    PerformAction(EatAction);
+                    break;
                 case 'S':
-                PerformAction(SleepAction); 
-                break;
+                    PerformAction(SleepAction);
+                    break;
                 case 'P':
-                PerformAction(PlayAction);
-                break;
+                    PerformAction(PlayAction);
+                    break;
             }
-    }
         }
+    }
     static void Eat(string name)
     {
         Console.WriteLine($"\n{name} Eating");

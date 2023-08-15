@@ -8,8 +8,7 @@ class Program
 {
     static void Main()
     {
-        Program obj = new();
-        WorkingHandler orang1 = new(obj.Working);
+        WorkingHandler orang1 = Working;
         GetEat(orang1);
     }
 
@@ -18,7 +17,7 @@ class Program
         Console.WriteLine("method GetEat dijalankan");
         jeneng("syahrul");
     }
-    public void Working(string nama)
+    public static void Working(string nama)
     {
         Console.WriteLine("method working dipanggil");
         Console.WriteLine($"{nama} sedang belajar");

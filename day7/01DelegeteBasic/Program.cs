@@ -8,7 +8,7 @@ class Program
 {
     static void Main()
     {
-        JalurDelegasi orang1 = new JalurDelegasi(GetCatatan);
+        JalurDelegasi orang1 = new(GetCatatan);
         orang1(8, WorkType.belajar);
 
     }

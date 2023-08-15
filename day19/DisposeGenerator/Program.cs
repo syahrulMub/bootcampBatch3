@@ -4,12 +4,11 @@ namespace GarbageCollectionDemo
 {
     class Program
     {
-
         public static void Main(string[] args)
         {
             Stopwatch timer = new Stopwatch();
             timer.Start();
-            for ( int i = 0; i < 10000; i++ )
+            for (int i = 0; i < 10000; i++)
             {
                 ObjectGenerator();
             }
@@ -29,13 +28,13 @@ namespace GarbageCollectionDemo
         private bool disposedValue = false;
         protected virtual void Dispose(bool disposing)
         {
-            if ( !disposedValue)
+            if (!disposedValue)
             {
                 if (disposing)
                 {
 
                 }
-            disposedValue = true;
+                disposedValue = true;
             }
         }
         ~Player1()
