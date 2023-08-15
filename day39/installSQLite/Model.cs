@@ -15,7 +15,6 @@ public class Example : DbContext
     {
         options.UseSqlite($"Data Source = {DbPath}");
     }
-
 }
 
 public class User
