@@ -1,0 +1,3 @@
+- understanding the system
+- Make it fail
+- Quit thinking and look

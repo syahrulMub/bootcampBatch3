@@ -1,5 +1,4 @@
 using Microsoft.EntityFrameworkCore;
-
 namespace TrainingSQLite;
 
 public partial class Program

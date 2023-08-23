@@ -1,0 +1,4 @@
+- problem observation
+- hypothesis
+- variable manipulation
+- result analysis

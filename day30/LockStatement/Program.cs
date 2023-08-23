@@ -15,26 +15,26 @@ static class Program
     }
     static async Task ProgramPerkalian()
     {
-        for (int i = 1; i < 10 ; i++)
+        for (int i = 1; i < 10; i++)
         {
             lock (CounterLock)
             {
                 value *= i;
                 Console.WriteLine($"perkalian {i} dengan hasil {value}");
             }
-        await Task.Delay(1000);
+            await Task.Delay(1000);
         }
     }
     static async Task ProgramPembagian()
     {
-        for (int i = 1; i < 10 ; i++)
+        for (int i = 1; i < 10; i++)
         {
             lock (CounterLock)
             {
                 value /= i;
                 Console.WriteLine($"pembagian {i} dengan hasil {value}");
             }
-        await Task.Delay(1000);
+            await Task.Delay(1000);
         }
     }
 

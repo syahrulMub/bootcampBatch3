@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1692809270073,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1692809251137,
+          "path": "make it fail.md"
+        }
+      ],
+      "title": "debugging technique"
+    }
+  ]
+}
